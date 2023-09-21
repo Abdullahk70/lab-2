@@ -1,0 +1,13 @@
+#a{
+ width: 600px;
+ height: 600px;
+ color: aqua;
+}
+#b{
+    width: 600px;
+    height: 600px;
+    color: beige;
+}
+.main{height: 1200px;
+    width: 1200px;
+}

@@ -1,0 +1,35 @@
+.parent{
+    height: 545px;
+    width: 1250px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box{
+    align-items: center;
+    justify-content: center;
+    border: 3px solid black;
+    height: 300px;
+    width: 500px;
+    display: flex;
+    
+
+}
+
+.left{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    align-items: cente;
+    justify-content: space-between;
+}
